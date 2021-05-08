@@ -1,4 +1,4 @@
-# TODOLIST 
+# ToDoList
 
 Study Mini Project
 
